@@ -94,4 +94,5 @@ df['profit'] = round(df['price'] * 0.09, 2)  # 9% margin
 | UK           | Medium   | Free shipping  |
 | US Loyalty   | Critical | Bonus points   |
 
+
 ![Data](File/coffee_excel.png)
