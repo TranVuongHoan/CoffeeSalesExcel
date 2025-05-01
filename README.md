@@ -16,7 +16,7 @@
 | Sales | 1,200+ | Date, ProductID, Qty, Revenue |
 | Customers | 32 | ID, Name, Country, Loyalty |
 
-![Data](File/coffee_sale_model.png)
+![Data](File/coffee_excel_model.png)
 
 ### Data Processing
 ```python
@@ -94,4 +94,4 @@ df['profit'] = round(df['price'] * 0.09, 2)  # 9% margin
 | UK           | Medium   | Free shipping  |
 | US Loyalty   | Critical | Bonus points   |
 
-![Data](File/coffee_sale.png)
+![Data](File/coffee_excel.png)
