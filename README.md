@@ -17,6 +17,7 @@
 | Customers | 32 | ID, Name, Country, Loyalty |
 
 ![Data](File/coffee_excel_model.png)
+![Data](File/coffee_excel.png)
 
 ### Data Processing
 ```python
@@ -93,6 +94,3 @@ df['profit'] = round(df['price'] * 0.09, 2)  # 9% margin
 | Ireland      | High     | Local blends   |
 | UK           | Medium   | Free shipping  |
 | US Loyalty   | Critical | Bonus points   |
-
-
-![Data](File/coffee_excel.png)
