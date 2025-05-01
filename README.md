@@ -1,5 +1,13 @@
 # CoffeeSalesExcel
 
+## Dashboard Overview
+| Component | Description | Key Metrics |
+|-----------|-------------|-------------|
+| **Product Analysis** | Coffee product pricing and profitability | 48 SKUs across 4 types |
+| **Sales Performance** | Monthly and geographic sales trends | 3 years of sales data |
+| **Customer Insights** | Top customers and purchasing patterns | 32 customer profiles |
+| **Recommendations** | Actionable business strategies | 5 key initiatives |
+
 ## Data Preparation
 ### Data Sources
 | Data Type | Records | Fields |
