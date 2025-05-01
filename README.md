@@ -16,6 +16,8 @@
 | Sales | 1,200+ | Date, ProductID, Qty, Revenue |
 | Customers | 32 | ID, Name, Country, Loyalty |
 
+![Data](File/coffee_sale_model.png)
+
 ### Data Processing
 ```python
 # Standardized product IDs
@@ -91,3 +93,5 @@ df['profit'] = round(df['price'] * 0.09, 2)  # 9% margin
 | Ireland      | High     | Local blends   |
 | UK           | Medium   | Free shipping  |
 | US Loyalty   | Critical | Bonus points   |
+
+![Data](File/coffee_sale.png)
