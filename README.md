@@ -27,9 +27,9 @@ df['product_id'] = df['type'].str[0] + '-' + df['roast'].str[0] + '-' + df['size
 df['price_per_100g'] = round(df['price'] / (df['size'] * 10), 2)
 df['profit'] = round(df['price'] * 0.09, 2)  # 9% margin
 
-# Product Analysis
+## Product Analysis
 
-## Price Comparison (USD)
+### Price Comparison (USD)
 
 | Size   | Arabica-Light | Arabica-Medium | Arabica-Dark |
 |--------|--------------|---------------|-------------|
@@ -38,7 +38,7 @@ df['profit'] = round(df['price'] * 0.09, 2)  # 9% margin
 | 1.0kg  | 12.95        | 11.25         | 9.95        |
 | 2.5kg  | 29.79        | 25.88         | 22.89       |
 
-## Profit Margins
+### Profit Margins
 
 | Coffee Type | Avg Margin | Top Product | Profit |
 |------------|-----------|-------------|--------|
@@ -47,9 +47,9 @@ df['profit'] = round(df['price'] * 0.09, 2)  # 9% margin
 | Liberica   | 13.1%     | L-L-2.5     | 4.74   |
 | Excelsa    | 8.5%      | E-L-2.5     | 3.35   |
 
-# Sales Performance
+## Sales Performance
 
-## Monthly Sales (2019-2021)
+### Monthly Sales (2019-2021)
 
 | Year | Jan   | Feb   | Mar   | Apr    |
 |------|-------|-------|-------|--------|
@@ -57,7 +57,7 @@ df['profit'] = round(df['price'] * 0.09, 2)  # 9% margin
 | 2020 | 1,287 | 1,745 | 1,429 | 2,114  |
 | 2021 | 1,345 | 1,532 | 1,758 | 1,882  |
 
-## Country Breakdown
+### Country Breakdown
 
 | Country        | Total Sales | % Revenue |
 |----------------|------------|----------|
@@ -65,9 +65,9 @@ df['profit'] = round(df['price'] * 0.09, 2)  # 9% margin
 | Ireland        | 6,697      | 16%      |
 | United Kingdom | 2,799      | 1%       |
 
-# Customer Insights
+## Customer Insights
 
-## Top 5 Customers
+### Top 5 Customers
 
 | CustomerID    | Name        | Total Spend | Orders |
 |---------------|------------|------------|--------|
@@ -77,16 +77,16 @@ df['profit'] = round(df['price'] * 0.09, 2)  # 9% margin
 | 72153-00052   | D. Azema    | 282        | 3      |
 | 23806-46781   | C. O'Shea   | 278        | 5      |
 
-# Recommendations
+## Recommendations
 
-## Product Strategy
+### Product Strategy
 
 | Action            | Target        | Expected Impact |
 |-------------------|--------------|----------------|
 | Liberica expansion | Add 2 SKUs   | +15% margin     |
 | Bulk discounts    | 2.5kg+ sizes | +20% volume     |
 
-## Marketing Focus
+### Marketing Focus
 
 | Market       | Priority  | Tactic         |
 |--------------|----------|---------------|
