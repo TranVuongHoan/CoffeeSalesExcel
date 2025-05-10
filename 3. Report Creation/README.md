@@ -2,8 +2,6 @@
 **Insights Presentation**  
 Interactive dashboard analyzing coffee sales trends, product performance, and customer behavior.  
 
-🔗 *[Interactive Dashboard Link](#)* *(placeholder for actual link)*  
-
 **Disclaimer:** Metrics reflect data from 2019–2025. Regional currency/unit variations may apply.  
 
 ---
@@ -24,8 +22,7 @@ Interactive dashboard analyzing coffee sales trends, product performance, and cu
 - **Best Seller:** 1.0kg Dark Roast (40% of revenue)  
 - **Underperformer:** Light Roast (20% share, 25% margin)  
 
-![Overview Screenshot](#) *(placeholder for image)*  
-
+![Data](image/coffee1.png)
 ---
 
 ## **Product Analysis**  
@@ -41,7 +38,7 @@ Interactive dashboard analyzing coffee sales trends, product performance, and cu
 2. **Promote Light Roast:**  
    - Limited-time discount → Target 25% adoption boost  
 
-![Product Performance](#)  
+![Data](image/coffee2.png)
 
 ---
 
