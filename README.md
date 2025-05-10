@@ -51,6 +51,8 @@ This project analyzes sales data for a specialty coffee company, examining produ
   - Price tiers (Budget/Mid-Range/Premium)
   - Value score metric
 
+![Data](File/coffee_excel_model.png)
+
 ### 2. Data Analysis
 #### Key Findings:
 - **Product Performance:**
@@ -110,6 +112,7 @@ This project analyzes sales data for a specialty coffee company, examining produ
   - Customer Lifetime Value projection
   - Inventory turnover rates
 
-![Data](File/coffee_excel_model.png)
-![Data](File/coffee_excel.png)
+![Data](File/coffee1.png)
+![Data](File/coffee2.png)
+
 
