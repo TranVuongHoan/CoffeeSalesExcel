@@ -62,4 +62,5 @@ Key observations from the preparation process:
 - Price per 100g decreases with larger sizes (volume discount)
 - Light roasts have highest profit margins
 
+![Data](image/coffee_excel_model.png)
 
