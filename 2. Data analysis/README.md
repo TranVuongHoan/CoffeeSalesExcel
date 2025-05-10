@@ -71,3 +71,6 @@ Available sizes and their performance:
 2. **Target light roast with discounts** to increase adoption
 3. **Expand loyalty program** to improve retention
 4. **Seasonal campaigns** (focus on summer months)
+
+![Data](image/coffee1.png)
+![Data](image/coffee2.png)
